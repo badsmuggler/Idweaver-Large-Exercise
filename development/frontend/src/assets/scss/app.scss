@@ -1,0 +1,23 @@
+@charset 'UTF-8';
+
+// VENDORS
+// -------
+
+@import 'vendors/normalize/normalize';
+@import 'vendors/animate/animate';
+
+// SETTINGS
+// --------
+
+@import 'settings/functions';
+@import 'settings/mixins';
+@import 'settings/variables';
+
+// LAYOUTS
+// -------
+
+@import 'layouts/root';
+@import 'layouts/header';
+@import 'layouts/hero';
+@import 'layouts/gallery';
+@import 'layouts/form';
