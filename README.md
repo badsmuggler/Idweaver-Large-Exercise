@@ -1,16 +1,22 @@
 # Exercice Frontend
 
+## Les niveaux
+
+ * Niveau 1 - Temps estimé: 1 jour - A faire: réaliser la validation de numéro de carte de crédit et la galerie
+ * Niveau 2 - Temps estimé: 2 jour - A faire: réaliser le niveau 1 + le hero et le header
+
 ## Design
 
-Vous pourrez trouver les différents fichiers ".psd" dans le dossier "Design", à savoir les version desktop et mobile de l'exercice ainsi que les polices de caractère à utiliser.  
+Vous pourrez trouver les différents fichiers ".psd" dans le dossier "Design", à savoir les version desktop et mobile de l'exercice ainsi que les polices de caractère à utiliser. Voici également le lien vers la police "google font": https://fonts.google.com/?query=roboto&selection.family=Roboto
 
 ## Développement
 
 Dans le dossier "Development", vous trouverez un boilerplate de travail qu'il vous est libre d'utiliser (ou pas). Les points qui seront évalués sont les suivants:
-    * HTML5 et CSS3
-    * Javascript Native
-    * L'organisation / méthodologie
-    * La maintenabilité et la réutilisation du code
+
+ * HTML5 et CSS3
+ * Javascript Native
+ * L'organisation / méthodologie
+ * La maintenabilité et la réutilisation du code
 
 L'utilisation d'un framework JS tel que VueJS ou React est autorisée mais pas obligatoire. Par contre, l'utilsation de jQuery et/ou de plugins divers est interdite. On privilégiera le développement en javascript natif ES6 et +.
 
