@@ -31,7 +31,6 @@ L'utilisation d'un framework JS tel que VueJS ou React est autorisée mais pas o
 La validation se fera exclusivement au "keyup" et devra fournir les informations suivantes :
 
  * Le type de la carte de crédit (Visa, Mastercard, Amex)
- * Si le type de la carte n'est pas connu, le fond
  * Le fond noir derrière le type de la carte deviendra vert (success), rouge (error) ou orange (si le type de la carte n'est pas connu).
 
 Quelques informations sur la validation des cartes de crédit :
